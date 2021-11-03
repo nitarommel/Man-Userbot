@@ -21,16 +21,7 @@ from userbot.events import man_cmd, register
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 
 DEF_UNAPPROVED_MSG = (
-    "╔════════════════════╗\n"
-    "     ⛑ 𝗔𝗧𝗧𝗘𝗡𝗧𝗜𝗢𝗡 𝗣𝗟𝗘𝗔𝗦𝗘 ⛑\n"
-    "╚════════════════════╝\n"
-    "• Saya belum menyetujui anda untuk PM.\n"
-    "• Tunggu sampai saya menyetujui PM anda.\n"
-    "• Jangan Spam Chat atau anda akan otomatis diblokir.\n"
-    "╔════════════════════╗\n"
-    "    𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 𝗕𝘆 -𝗨𝘀𝗲𝗿𝗕𝗼𝘁\n"
-    "╚════════════════════╝\n"
-)
+    f"join sini dulu sayang @gabutjoinsini🥺 kalo udah join nanti aku chat lagi")
 # =================================================================
 
 
